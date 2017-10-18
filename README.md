@@ -1,12 +1,14 @@
-# FrontEndART SourceMeter plug-in for SONARQUBE™ platform
+[!alt text](https://cdn.css-tricks.com/wp-content/uploads/2013/03/kiwi.png)
+
+# FrontEndART SourceMeter plug-in for SONARQUBEâ„¢ platform
 
 *FrontEndART* **[SourceMeter]** is a command line source code analyzer tool, which can perform **deep static analysis** of the source code of complex software systems written in **C/C++**, **C#**, **Java**, **Python**, and **RPG**. [FrontEndART] offers also a **free version** of SourceMeter.
 
-*SourceMeter plug-in for SONARQUBE™ platform* ("plug-in" in the following) is an extension of the open-source [SONARQUBE]™ platform for managing code quality. The plug-in executes SourceMeter from the SONARQUBE™ platform and uploads the source code analysis results of SourceMeter into the SONARQUBE™ database.
+*SourceMeter plug-in for SONARQUBEâ„¢ platform* ("plug-in" in the following) is an extension of the open-source [SONARQUBE]â„¢ platform for managing code quality. The plug-in executes SourceMeter from the SONARQUBEâ„¢ platform and uploads the source code analysis results of SourceMeter into the SONARQUBEâ„¢ database.
 
-The plug-in is open-source, and provides all the usual SONARQUBE™ code analysis results, extended with many additional metrics and issue detectors provided by the SourceMeter tool. The plug-in supports the C/C++, C#, Java, Python and RPG languages.
+The plug-in is open-source, and provides all the usual SONARQUBEâ„¢ code analysis results, extended with many additional metrics and issue detectors provided by the SourceMeter tool. The plug-in supports the C/C++, C#, Java, Python and RPG languages.
 
-Additionally, the plug-in extends the SONARQUBE™ platform GUI with new features on the dashboard and drill-down views.
+Additionally, the plug-in extends the SONARQUBEâ„¢ platform GUI with new features on the dashboard and drill-down views.
 
 [FrontEndART]:https://www.frontendart.com/
 [SourceMeter]:https://www.sourcemeter.com/
@@ -30,16 +32,16 @@ Additionally, the plug-in extends the SONARQUBE™ platform GUI with new features 
 
 - And many more...
 
-The plug-in is compatible with the former LTS (long term support) version 4.5 of the SONARQUBE™ platform, which can be obtained from its [website]. (This version of the plug-in was successfully tested with versions 4.4, and 4.5.7.)
+The plug-in is compatible with the former LTS (long term support) version 4.5 of the SONARQUBEâ„¢ platform, which can be obtained from its [website]. (This version of the plug-in was successfully tested with versions 4.4, and 4.5.7.)
 
 **Download links to the compatible versions**
 
- * [SONARQUBE™ Server 4.5.7](https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-4.5.7.zip)
- * [SONARQUBE™ Runner 2.4](http://repo1.maven.org/maven2/org/codehaus/sonar/runner/sonar-runner-dist/2.4/sonar-runner-dist-2.4.zip)
+ * [SONARQUBEâ„¢ Server 4.5.7](https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-4.5.7.zip)
+ * [SONARQUBEâ„¢ Runner 2.4](http://repo1.maven.org/maven2/org/codehaus/sonar/runner/sonar-runner-dist/2.4/sonar-runner-dist-2.4.zip)
 
 For more information about the plug-in please read the User's Guide.
 
-SONARQUBE™ is a trademark of SonarSource SA, Switzerland.
+SONARQUBEâ„¢ is a trademark of SonarSource SA, Switzerland.
 
 August 25, 2017
 
