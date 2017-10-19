@@ -1,4 +1,4 @@
-[!alt text](https://dev.softwaremetric-database.com/api/timeline/Bukkit_Bukkit/master)
+[![SoftwareMetric Database](https://dev.softwaremetric-database.com/api/timeline/Bukkit_Bukkit/master)](https://dev.softwaremetric-database.com/dashboard/branches?branchId=319)
 
 # FrontEndART SourceMeter plug-in for SONARQUBE™ platform
 
