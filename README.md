@@ -1,4 +1,4 @@
-[!alt text](https://cdn.css-tricks.com/wp-content/uploads/2013/03/kiwi.png)
+[!alt text](https://dev.softwaremetric-database.com/api/timeline/Bukkit_Bukkit/master)
 
 # FrontEndART SourceMeter plug-in for SONARQUBE™ platform
 
