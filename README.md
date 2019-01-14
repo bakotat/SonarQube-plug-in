@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dev.softwaremetric-database.com/dashboard/branches?branchId=319"><img src="https://dev.softwaremetric-database.com/api/timeline/Bukkit_Bukkit/master"/></a>
+  <a href="http://smdb-prod.frontendart.com/dashboard/branches?projectName=banner&branchName=master"><img src="http://smdb-prod.frontendart.com/api/timeline/banner/master"/></a>
 </p>
 
 # FrontEndART SourceMeter plug-in for SONARQUBE™ platform
